@@ -1,0 +1,19 @@
+.random{
+    background-color: rgb(86, 239, 86);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+    width: 418px;
+    border-radius: 10px;
+}
+.btn{
+    all: unset;
+    border: 1px solid #534f4f;
+    border-radius: 17px;
+    background-color: #d3cbcbd1;
+    margin: 2p;
+    padding: 2px 125px;
+}
